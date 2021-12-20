@@ -11,7 +11,8 @@ const Tasks = ({ tasks, onDelete, onToggle }) => {
                 onToggle={onToggle} 
             />
         )
-        )}
+        )
+        }
      </>
     )
 }
